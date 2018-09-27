@@ -1,0 +1,1 @@
+# offline-dictionary-terminal-version
